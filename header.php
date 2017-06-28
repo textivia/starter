@@ -26,7 +26,7 @@
 </head>
 <body <?php body_class(); ?>>
 	<?php get_template_part( 'content', 'off_canvas_mobile' ); ?>
-	<div class="header_container">Updated Header File - version 2
+	<div class="header_container">Updated Header File - version 3
         <header id="header" class="header_wrap row">
             <div class="site-header small-text-center medium-3 large-3 columns">
                 <div class="header-logo">
